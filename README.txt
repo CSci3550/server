@@ -1,7 +1,7 @@
 #server.js - 
 Required to install node.js
 Required to install socket.io
-http://localhost:8080 will keep loading (prove server running) until server.js is terminated by terminal console
+http://localhost:8080 will keep loading (prove server running without graphic to respond) until server.js is terminated by terminal console
 
 #testServer.js
 Run testServer.js on separate terminal console after running server.js
